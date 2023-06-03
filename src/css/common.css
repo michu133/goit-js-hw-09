@@ -29,3 +29,33 @@ img {
   text-align: center;
   margin-right: 10px;
 }
+.timer {
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10px;
+  text-transform: uppercase;
+}
+.value {
+  font-size: 40px;
+}
+.calendar {
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.task2 {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
